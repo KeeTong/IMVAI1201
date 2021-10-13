@@ -1,0 +1,160 @@
+{
+	“Module” : “Orientation",
+	“Date” : “22 Jul 2021",
+	“Time” : “1000 - 1200",	
+	“Venue” : “Online via Zoom",
+	“Type” : “Orientation",
+	“Code” : “AK73080"
+},
+{
+	“Module” : “Orientation",
+	“Date” : “22 Jul 2021",
+	“Time” : “1200 - 1300",
+	“Venue” : “",
+	“Type” : “Pre-Set up Session",
+	“Code” : “AK73081"
+},
+{
+	“Module” : “Getting started with AI",
+	“Date” : “26 Jul 2021",
+	“Time” : “0900 - 1230",
+	“Venue” : “Online via Zoom",
+	“Type” : “Lecture & Tutorial/Lab",
+	“Code” : “AK73082"
+},
+{ 	“Module” : “Getting started with AI", 	“Date” : “26 Jul 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73083" },
+{ 	“Module” : “Getting started with AI", 	“Date” : “27 Jul 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73084" },
+{ 	“Module” : “Getting started with AI", 	“Date” : “27 Jul 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73085" },
+{ 	“Module” : “AI in Business", 	“Date” : “29 Jul 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73086" },
+{ 	“Module” : “AI in Business", 	“Date” : “29 Jul 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73087" },
+{ 	“Module” : “AI in Business", 	“Date” : “30 Jul 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73088" },
+{ 	“Module” : “AI in Business", 	“Date” : “30 Jul 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73089" },
+{ 	“Module” : “Design Thinking", 	“Date” : “2 Aug 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73090" },
+{ 	“Module” : “Design Thinking", 	“Date” : “2 Aug 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73091" },
+{ 	“Module” : “Design Thinking", 	“Date” : “3 Aug 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73092" },
+{ 	“Module” : “Design Thinking", 	“Date” : “3 Aug 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73093" },
+{ 	“Module” : “Design Thinking", 	“Date” : “4 Aug 2021", 	“Time” : “9:00 - 12:00", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73094" },
+{ 	“Module” : “Design Thinking", 	“Date” : “5 Aug 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73095" },
+{ 	“Module” : “Design Thinking", 	“Date” : “5 Aug 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73096" },
+{ 	“Module” : “Design Thinking", 	“Date” : “6 Aug 2021", 	“Time” : “9:00 - 13:00", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73097" },
+{ 	“Module” : “Design Thinking", 	“Date” : “11 Aug 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Project Discussion", 	“Code” : “AK73098" },
+{ 	“Module” : “Design Thinking", 	“Date” : “12 Aug 2021", 	“Time” : “9:00 - 11:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73099" },
+{ 	“Module” : “Design Thinking", 	“Date” : “13 Aug 2021", 	“Time” : “9:00 - 11:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73100" },
+{ 	“Module” : “Design Thinking", 	“Date” : “16 Aug 2021", 	“Time” : “9:00 - 11:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73101" },
+{ 	“Module” : “Design Thinking", 	“Date” : “17 Aug 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Midpoint Project Discussion", 	“Code” : “AK73102" },
+{ 	“Module” : “Design Thinking", 	“Date” : “18 Aug 2021", 	“Time” : “9:00 - 11:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73103" },
+{ 	“Module” : “Design Thinking", 	“Date” : “19 Aug 2021", 	“Time” : “9:00 - 11:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73104" },
+{ 	“Module” : “Design Thinking", 	“Date” : “20 Aug 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Final Project Presentation", 	“Code” : “AK73105" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “24 Aug 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73106" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “24 Aug 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73107" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “25 Aug 2021", 	“Time” : “9:00 - 11:45", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73108" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “26 Aug 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73109" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “26 Aug 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73110" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “27 Aug 2021", 	“Time” : “9:00 - 13:00", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73111" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “31 Aug 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73112" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “31 Aug 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73113" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “1 Sep 2021", 	“Time” : “9:00 - 13:00", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73114" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “2 Sep 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73115" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “2 Sep 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73116" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “3 Sep 2021", 	“Time” : “9:00 - 13:00", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73117" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “6 Sep 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73118" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “6 Sep 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73119" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “7 Sep 2021", 	“Time” : “9:00 - 13:00", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73120" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “8 Sep 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73121" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “9 Sep 2021", 	“Time” : “9:00 - 13:00", 	“Venue” : “Online via Zoom", 	“Type” : “Project Discussion", 	“Code” : “AK73122" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “10 Sep 2021", 	“Time” : “9:00 - 12:45", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73123" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “13 Sep 2021", 	“Time” : “9:00 - 12:45", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73124" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “14 Sep 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73125" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “15 Sep 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Midpoint Project Discussion", 	“Code” : “AK73126" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “16 Sep 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73127" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “17 Sep 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73128" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “20 Sep 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73129" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “21 Sep 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Final Project Presentation", 	“Code” : “AK73130" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “21 Sep 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Final Project Presentation", 	“Code” : “AK73131" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “23 Sep 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73132" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “24 Sep 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73133" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “27 Sep 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73134" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “28 Sep 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73135" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “29 Sep 2021", 	“Time” : “9:00 - 12:45", 	“Venue” : “Online via Zoom", 	“Type” : “Online Consultation", 	“Code” : “AK73136" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “29 Sep 2021", 	“Time” : “13:45 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73137" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “30 Sep 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73138" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “1 Oct 2021", 	“Time” : “9:00 - 17:00", 	“Venue” : “Classroom/Online via Zoom", 	“Type” : “Exam", 	“Code” : “AK73139" },
+{ 	“Module” : “Cloud Computing", 	“Date” : “5 Oct 2021", 	“Time” : “9:00 - 17:00", 	“Venue” : “Classroom/Online via Zoom", 	“Type” : “Exam (2nd Chance)", 	“Code” : “AK73140" },
+{ 	“Module” : “Data Science", 	“Date” : “8 Oct 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73141" },
+{ 	“Module” : “Data Science", 	“Date” : “8 Oct 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73142" },
+{ 	“Module” : “Data Science", 	“Date” : “11 Oct 2021", 	“Time” : “9:00 - 15:00", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73143" },
+{ 	“Module” : “Data Science", 	“Date” : “12 Oct 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73144" },
+{ 	“Module” : “Data Science", 	“Date” : “12 Oct 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73145" },
+{ 	“Module” : “Data Science", 	“Date” : “13 Oct 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73146" },
+{ 	“Module” : “Data Science", 	“Date” : “14 Oct 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73147" },
+{ 	“Module” : “Data Science", 	“Date” : “14 Oct 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73148" },
+{ 	“Module” : “Data Science", 	“Date” : “15 Oct 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73149" },
+{ 	“Module” : “Data Science", 	“Date” : “18 Oct 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73150" },
+{ 	“Module” : “Data Science", 	“Date” : “18 Oct 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73151" },
+{ 	“Module” : “Data Science", 	“Date” : “19 Oct 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73152" },
+{ 	“Module” : “Data Science", 	“Date” : “20 Oct 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73153" },
+{ 	“Module” : “Data Science", 	“Date” : “20 Oct 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73154" },
+{ 	“Module” : “Data Science", 	“Date” : “21 Oct 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73155" },
+{ 	“Module” : “Data Science", 	“Date” : “22 Oct 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73156" },
+{ 	“Module” : “Data Science", 	“Date” : “22 Oct 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73157" },
+{ 	“Module” : “Data Science", 	“Date” : “25 Oct 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73158" },
+{ 	“Module” : “Data Science", 	“Date” : “26 Oct 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73159" },
+{ 	“Module” : “Data Science", 	“Date” : “27 Oct 2021", 	“Time” : “9:00 - 13:00", 	“Venue” : “Online via Zoom", 	“Type” : “Project Discussion", 	“Code” : “AK73160" },
+{ 	“Module” : “Data Science", 	“Date” : “28 Oct 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73161" },
+{ 	“Module” : “Data Science", 	“Date” : “29 Oct 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73162" },
+{ 	“Module” : “Data Science", 	“Date” : “1 Nov 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73163" },
+{ 	“Module” : “Data Science", 	“Date” : “2 Nov 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Midpoint Project Discussion", 	“Code” : “AK73164" },
+{ 	“Module” : “Data Science", 	“Date” : “8 Nov 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73165" },
+{ 	“Module” : “Data Science", 	“Date” : “9 Nov 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73166" },
+{ 	“Module” : “Data Science", 	“Date” : “10 Nov 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73167" },
+{ 	“Module” : “Data Science", 	“Date” : “11 Nov 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Final Project Presentation", 	“Code” : “AK73168" },
+{ 	“Module” : “Data Science", 	“Date” : “11 Nov 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Final Project Presentation", 	“Code” : “AK73169" },
+{ 	“Module” : “Data Science", 	“Date” : “16 Nov 2021", 	“Time” : “9:00 - 12:45", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73170" },
+{ 	“Module” : “Data Science", 	“Date” : “17 Nov 2021", 	“Time” : “9:00 - 12:45", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73171" },
+{ 	“Module” : “Data Science", 	“Date” : “18 Nov 2021", 	“Time” : “9:00 - 12:45", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73172" },
+{ 	“Module” : “Data Science", 	“Date” : “19 Nov 2021", 	“Time” : “9:00 - 12:45", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73173" },
+{ 	“Module” : “Data Science", 	“Date” : “22 Nov 2021", 	“Time” : “13:45 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73174" },
+{ 	“Module” : “Data Science", 	“Date” : “22 Nov 2021", 	“Time” : “9:00 - 12:45", 	“Venue” : “Online via Zoom", 	“Type” : “Online Consultation", 	“Code” : “AK73175" },
+{ 	“Module” : “Data Science", 	“Date” : “23 Nov 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73176" },
+{ 	“Module” : “Data Science", 	“Date” : “24 Nov 2021", 	“Time” : “9:00 - 17:00", 	“Venue” : “Classroom/Online via Zoom", 	“Type” : “Exam", 	“Code” : “AK73177" },
+{ 	“Module” : “Data Science", 	“Date” : “26 Nov 2021", 	“Time” : “9:00 - 17:00", 	“Venue” : “Classroom/Online via Zoom", 	“Type” : “Exam (2nd Chance)", 	“Code” : “AK73178" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “30 Nov 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73179" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “30 Nov 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73180" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “1 Dec 2021", 	“Time” : “9:00 - 15:00", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73181" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “2 Dec 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73182" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “2 Dec 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73183" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “3 Dec 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73184" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “6 Dec 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73185" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “6 Dec 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73186" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “7 Dec 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73187" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “9 Dec 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73188" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “9 Dec 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73189" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “10 Dec 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73190" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “13 Dec 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73191" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “13 Dec 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73192" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “14 Dec 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73193" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “15 Dec 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73194" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “15 Dec 2021", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Lecture & Tutorial/Lab", 	“Code” : “AK73195" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “16 Dec 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Study & Self Directed E-Learning", 	“Code” : “AK73196" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “17 Dec 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73197" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “20 Dec 2021", 	“Time” : “9:00 - 13:00", 	“Venue” : “Online via Zoom", 	“Type” : “Project Discussion", 	“Code” : “AK73198" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “21 Dec 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73199" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “22 Dec 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73200" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “23 Dec 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73201" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “28 Dec 2021", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Midpoint Project Discussion", 	“Code” : “AK73202" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “29 Dec 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73203" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “30 Dec 2021", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73204" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “4 Jan 2022", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73205" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “5 Jan 2022", 	“Time” : “9:00 - 17:30", 	“Venue” : “Team-Arranged", 	“Type” : “Self Group Project Discussion", 	“Code” : “AK73206" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “6 Jan 2022", 	“Time” : “9:00 - 12:30", 	“Venue” : “Online via Zoom", 	“Type” : “Final Project Presentation", 	“Code” : “AK73207" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “6 Jan 2022", 	“Time” : “13:30 - 17:30", 	“Venue” : “Online via Zoom", 	“Type” : “Final Project Presentation", 	“Code” : “AK73208" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “10 Jan 2022", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73209" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “11 Jan 2022", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73210" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “12 Jan 2022", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73211" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “13 Jan 2022", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73212" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “14 Jan 2022", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73213" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “17 Jan 2022", 	“Time” : “9:00 - 12:45", 	“Venue” : “Online via Zoom", 	“Type” : “Online Consultation", 	“Code” : “AK73214" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “17 Jan 2022", 	“Time” : “13:45 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73215" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “18 Jan 2022", 	“Time” : “9:00 - 17:30", 	“Venue” : “-", 	“Type” : “Self Exam Preparation & Practice Exam", 	“Code” : “AK73216" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “19 Jan 2022", 	“Time” : “9:00 - 17:00", 	“Venue” : “Classroom/Online via Zoom", 	“Type” : “Exam", 	“Code” : “AK73217" },
+{ 	“Module” : “AI Practitioner", 	“Date” : “21 Jan 2022", 	“Time” : “9:00 - 17:00", 	“Venue” : “Classroom/Online via Zoom", 	“Type” : “Exam (2nd Chance)", 	“Code” : “AK73218" },
