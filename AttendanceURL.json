@@ -1,43 +1,11 @@
 [
   {
     "Module": "Data Science",
-    "Date": "19 Oct 2021",
-    "Time": "9:00 - 17:30",
-    "Venue": "-",
-    "Type": "Self Study & Self Directed E-Learning",
-    "Code": "AP12709"
-  },
-  {
-    "Module": "Data Science",
-    "Date": "20 Oct 2021",
-    "Time": "9:00 - 12:30",
-    "Venue": "Online via Zoom",
-    "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP17726"
-  },
-  {
-    "Module": "Data Science",
-    "Date": "20 Oct 2021",
-    "Time": "13:30 - 17:30",
-    "Venue": "Online via Zoom",
-    "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP17728"
-  },
-  {
-    "Module": "Data Science",
-    "Date": "21 Oct 2021",
-    "Time": "9:00 - 17:30",
-    "Venue": "-",
-    "Type": "Self Study & Self Directed E-Learning",
-    "Code": "AP12712"
-  },
-  {
-    "Module": "Data Science",
     "Date": "22 Oct 2021",
     "Time": "9:00 - 12:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12713"
+    "Code": "AK73164"
   },
   {
     "Module": "Data Science",
@@ -45,7 +13,7 @@
     "Time": "13:30 - 17:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12714"
+    "Code": "AK73165"
   },
   {
     "Module": "Data Science",
@@ -53,7 +21,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Study & Self Directed E-Learning",
-    "Code": "AP12715"
+    "Code": "AK73166"
   },
   {
     "Module": "Data Science",
@@ -61,7 +29,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12716"
+    "Code": "AK73167"
   },
   {
     "Module": "Data Science",
@@ -69,7 +37,7 @@
     "Time": "9:00 - 13:00",
     "Venue": "Online via Zoom",
     "Type": "Project Discussion",
-    "Code": "AP12717"
+    "Code": "AK73168"
   },
   {
     "Module": "Data Science",
@@ -77,7 +45,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12718"
+    "Code": "AK73169"
   },
   {
     "Module": "Data Science",
@@ -85,7 +53,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12719"
+    "Code": "AK73170"
   },
   {
     "Module": "Data Science",
@@ -93,7 +61,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12720"
+    "Code": "AK73171"
   },
   {
     "Module": "Data Science",
@@ -101,7 +69,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Online via Zoom",
     "Type": "Midpoint Project Discussion",
-    "Code": "AP12721"
+    "Code": "AK73172"
   },
   {
     "Module": "Data Science",
@@ -109,7 +77,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12722"
+    "Code": "AK73173"
   },
   {
     "Module": "Data Science",
@@ -117,7 +85,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12723"
+    "Code": "AK73174"
   },
   {
     "Module": "Data Science",
@@ -125,7 +93,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12724"
+    "Code": "AK73175"
   },
   {
     "Module": "Data Science",
@@ -133,7 +101,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Online via Zoom",
     "Type": "Final Project Presentation",
-    "Code": "AP12725"
+    "Code": "AK73176"
   },
   {
     "Module": "Data Science",
@@ -141,7 +109,7 @@
     "Time": "13:30 - 17:30",
     "Venue": "Online via Zoom",
     "Type": "Final Project Presentation",
-    "Code": "AP12726"
+    "Code": "AK73177"
   },
   {
     "Module": "Data Science",
@@ -149,7 +117,7 @@
     "Time": "9:00 - 12:45",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12727"
+    "Code": "AK73178"
   },
   {
     "Module": "Data Science",
@@ -157,7 +125,7 @@
     "Time": "9:00 - 12:45",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12728"
+    "Code": "AK73179"
   },
   {
     "Module": "Data Science",
@@ -165,7 +133,7 @@
     "Time": "9:00 - 12:45",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12729"
+    "Code": "AK73180"
   },
   {
     "Module": "Data Science",
@@ -173,7 +141,7 @@
     "Time": "9:00 - 12:45",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12730"
+    "Code": "AK73181"
   },
   {
     "Module": "Data Science",
@@ -181,7 +149,7 @@
     "Time": "13:45 - 17:30",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12731"
+    "Code": "AK73182"
   },
   {
     "Module": "Data Science",
@@ -189,7 +157,7 @@
     "Time": "9:00 - 12:45",
     "Venue": "Online via Zoom",
     "Type": "Online Consultation",
-    "Code": "AP12732"
+    "Code": "AK73183"
   },
   {
     "Module": "Data Science",
@@ -197,7 +165,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12733"
+    "Code": "AK73184"
   },
   {
     "Module": "Data Science",
@@ -205,7 +173,7 @@
     "Time": "9:00 - 17:00",
     "Venue": "Classroom/Online via Zoom",
     "Type": "Exam",
-    "Code": "AP12734"
+    "Code": "AK73185"
   },
   {
     "Module": "Data Science",
@@ -213,7 +181,7 @@
     "Time": "9:00 - 17:00",
     "Venue": "Classroom/Online via Zoom",
     "Type": "Exam (2nd Chance)",
-    "Code": "AP12735"
+    "Code": "AK73186"
   },
   {
     "Module": "AI Practitioner",
@@ -221,7 +189,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12736"
+    "Code": "AK73187"
   },
   {
     "Module": "AI Practitioner",
@@ -229,7 +197,7 @@
     "Time": "13:30 - 17:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12737"
+    "Code": "AK73188"
   },
   {
     "Module": "AI Practitioner",
@@ -237,7 +205,7 @@
     "Time": "9:00 - 15:00",
     "Venue": "-",
     "Type": "Self Study & Self Directed E-Learning",
-    "Code": "AP12738"
+    "Code": "AK73189"
   },
   {
     "Module": "AI Practitioner",
@@ -245,7 +213,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12739"
+    "Code": "AK73190"
   },
   {
     "Module": "AI Practitioner",
@@ -253,7 +221,7 @@
     "Time": "13:30 - 17:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12740"
+    "Code": "AK73191"
   },
   {
     "Module": "AI Practitioner",
@@ -261,7 +229,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Study & Self Directed E-Learning",
-    "Code": "AP12741"
+    "Code": "AK73192"
   },
   {
     "Module": "AI Practitioner",
@@ -269,7 +237,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12742"
+    "Code": "AK73193"
   },
   {
     "Module": "AI Practitioner",
@@ -277,7 +245,7 @@
     "Time": "13:30 - 17:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12743"
+    "Code": "AK73194"
   },
   {
     "Module": "AI Practitioner",
@@ -285,7 +253,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Study & Self Directed E-Learning",
-    "Code": "AP12744"
+    "Code": "AK73195"
   },
   {
     "Module": "AI Practitioner",
@@ -293,7 +261,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12745"
+    "Code": "AK73196"
   },
   {
     "Module": "AI Practitioner",
@@ -301,7 +269,7 @@
     "Time": "13:30 - 17:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12746"
+    "Code": "AK73197"
   },
   {
     "Module": "AI Practitioner",
@@ -309,7 +277,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Study & Self Directed E-Learning",
-    "Code": "AP12747"
+    "Code": "AK73198"
   },
   {
     "Module": "AI Practitioner",
@@ -317,7 +285,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12748"
+    "Code": "AK73199"
   },
   {
     "Module": "AI Practitioner",
@@ -325,7 +293,7 @@
     "Time": "13:30 - 17:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12749"
+    "Code": "AK73200"
   },
   {
     "Module": "AI Practitioner",
@@ -333,7 +301,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Study & Self Directed E-Learning",
-    "Code": "AP12750"
+    "Code": "AK73201"
   },
   {
     "Module": "AI Practitioner",
@@ -341,7 +309,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12751"
+    "Code": "AK73202"
   },
   {
     "Module": "AI Practitioner",
@@ -349,7 +317,7 @@
     "Time": "13:30 - 17:30",
     "Venue": "Online via Zoom",
     "Type": "Lecture & Tutorial/Lab",
-    "Code": "AP12752"
+    "Code": "AK73203"
   },
   {
     "Module": "AI Practitioner",
@@ -357,7 +325,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Study & Self Directed E-Learning",
-    "Code": "AP12753"
+    "Code": "AK73204"
   },
   {
     "Module": "AI Practitioner",
@@ -365,7 +333,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12754"
+    "Code": "AK73205"
   },
   {
     "Module": "AI Practitioner",
@@ -373,7 +341,7 @@
     "Time": "9:00 - 13:00",
     "Venue": "Online via Zoom",
     "Type": "Project Discussion",
-    "Code": "AP12755"
+    "Code": "AK73206"
   },
   {
     "Module": "AI Practitioner",
@@ -381,7 +349,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12756"
+    "Code": "AK73207"
   },
   {
     "Module": "AI Practitioner",
@@ -389,7 +357,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12757"
+    "Code": "AK73208"
   },
   {
     "Module": "AI Practitioner",
@@ -397,7 +365,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12758"
+    "Code": "AK73209"
   },
   {
     "Module": "AI Practitioner",
@@ -405,7 +373,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Online via Zoom",
     "Type": "Midpoint Project Discussion",
-    "Code": "AP12759"
+    "Code": "AK73210"
   },
   {
     "Module": "AI Practitioner",
@@ -413,7 +381,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12760"
+    "Code": "AK73211"
   },
   {
     "Module": "AI Practitioner",
@@ -421,7 +389,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12761"
+    "Code": "AK73212"
   },
   {
     "Module": "AI Practitioner",
@@ -429,7 +397,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12762"
+    "Code": "AK73213"
   },
   {
     "Module": "AI Practitioner",
@@ -437,7 +405,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "Team-Arranged",
     "Type": "Self Group Project Discussion",
-    "Code": "AP12763"
+    "Code": "AK73214"
   },
   {
     "Module": "AI Practitioner",
@@ -445,7 +413,7 @@
     "Time": "9:00 - 12:30",
     "Venue": "Online via Zoom",
     "Type": "Final Project Presentation",
-    "Code": "AP12764"
+    "Code": "AK73215"
   },
   {
     "Module": "AI Practitioner",
@@ -453,7 +421,7 @@
     "Time": "13:30 - 17:30",
     "Venue": "Online via Zoom",
     "Type": "Final Project Presentation",
-    "Code": "AP12765"
+    "Code": "AK73216"
   },
   {
     "Module": "AI Practitioner",
@@ -461,7 +429,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12766"
+    "Code": "AK73217"
   },
   {
     "Module": "AI Practitioner",
@@ -469,7 +437,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12767"
+    "Code": "AK73218"
   },
   {
     "Module": "AI Practitioner",
@@ -477,7 +445,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12768"
+    "Code": "AK73219"
   },
   {
     "Module": "AI Practitioner",
@@ -485,7 +453,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12769"
+    "Code": "AK73220"
   },
   {
     "Module": "AI Practitioner",
@@ -493,7 +461,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12770"
+    "Code": "AK73221"
   },
   {
     "Module": "AI Practitioner",
@@ -501,7 +469,7 @@
     "Time": "9:00 - 12:45",
     "Venue": "Online via Zoom",
     "Type": "Online Consultation",
-    "Code": "AP12771"
+    "Code": "AK73222"
   },
   {
     "Module": "AI Practitioner",
@@ -509,7 +477,7 @@
     "Time": "13:45 - 17:30",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12772"
+    "Code": "AK73223"
   },
   {
     "Module": "AI Practitioner",
@@ -517,7 +485,7 @@
     "Time": "9:00 - 17:30",
     "Venue": "-",
     "Type": "Self Exam Preparation & Practice Exam",
-    "Code": "AP12773"
+    "Code": "AK73224"
   },
   {
     "Module": "AI Practitioner",
@@ -525,7 +493,7 @@
     "Time": "9:00 - 17:00",
     "Venue": "Classroom/Online via Zoom",
     "Type": "Exam",
-    "Code": "AP12774"
+    "Code": "AK73225"
   },
   {
     "Module": "AI Practitioner",
@@ -533,6 +501,6 @@
     "Time": "9:00 - 17:00",
     "Venue": "Classroom/Online via Zoom",
     "Type": "Exam (2nd Chance)",
-    "Code": "AP12775"
+    "Code": "AK73226"
   }
 ]
